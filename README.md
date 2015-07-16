@@ -1,2 +1,2 @@
-#Canvas Shapes
--   This is a simple demo utilizing HTML Canvas to draw.
+#Circle Bounce
+-   Using Canvas to make circles bounce and collide.
